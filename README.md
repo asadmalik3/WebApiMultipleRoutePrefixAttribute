@@ -9,7 +9,10 @@ Create another file and name it 3bTechTalkRoutePrefix.cs, you can copy the class
 https://github.com/asadmalik3/WebApiMultipleRoutePrefixAttribute/blob/master/3bTechTalk.MultipleRoutePrefixAttributes/3bTechTalkRoutePrefix.cs
 
 Now open WebApiConfig.cs and add this line 
+
+``` C#
 config.MapHttpAttributeRoutes(new _3bTechTalkMultiplePrefixDirectRouteProvider());
+```
 
 That's it, Now you can add multiple route prefix attribute in your controller. Example below
 
