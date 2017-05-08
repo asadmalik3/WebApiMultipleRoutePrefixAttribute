@@ -1,5 +1,5 @@
 # WebApiMultipleRoutePrefixAttribute
-For details, visit https://3btechtalk.wordpress.com/2017/05/07/defining-multiple-route-prefix-in-asp-net-web-api-attribute-routing/
+For details, visit http://wp.me/p8AHjt-12
 
 ------
 
